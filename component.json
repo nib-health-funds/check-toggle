@@ -1,0 +1,9 @@
+{
+  "name": "check-toggle",
+  "dependencies": {
+
+  },
+  "scripts": [
+    "index.js"
+  ]
+}
