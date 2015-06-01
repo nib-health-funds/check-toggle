@@ -1,0 +1,9 @@
+{
+  "name": "@nib/check-toggle",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-health-funds/check-toggle.git"
+  }
+}
